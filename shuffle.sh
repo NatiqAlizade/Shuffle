@@ -49,7 +49,3 @@ sudo swapoff -a
 # Bring up the Docker Compose environment
 docker compose up -d
 
-# Credentials:
-# admin@admin.local
-# admin
-
